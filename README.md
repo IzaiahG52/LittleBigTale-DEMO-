@@ -8,7 +8,21 @@ A demo of an **Undertale** mod, developed from 2025 to 2026.
 - Custom items and gameplay overhauls
 - Two custom endings
 
-<!-- TODO: add a screenshot or gif, e.g. ![Screenshot](screenshots/ruins.png) -->
+## Screenshots
+
+![Title screen](screenshots/title-screen.png)
+
+![Ruins overworld](screenshots/ruins-overworld.png)
+
+![NPC dialogue and a puzzle room](screenshots/dialogue-puzzle.png)
+
+![Battle: Mr. Squeegee](screenshots/battle-mr-squeegee.png)
+
+![Battle: the statue](screenshots/battle-statue.png)
+
+## Download
+
+Get the demo from the [latest release](https://github.com/IzaiahG52/LittleBigTale-DEMO-/releases/latest).
 
 ## About
 
